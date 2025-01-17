@@ -40,7 +40,8 @@ Este repositorio contiene el resultado de mi práctica con diferentes secciones 
  ┣ 📜pubspec.yaml
  ┗ 📂tests
    ┗ 📜widget_test.dart
-
+```
+---
 ## 🚀 Cómo Ejecutar el Proyecto
 
 1. Clona este repositorio:
